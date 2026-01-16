@@ -38,3 +38,10 @@ body {
 .userflash {
    background-color: green;
 }
+
+#restart {
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
