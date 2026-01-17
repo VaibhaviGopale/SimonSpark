@@ -1,3 +1,8 @@
+# 🎮 SimonSpark – Simon Says Game
+
+🔗 **Live Demo:**  
+👉 https://vaibhavigopale.github.io/SimonSpark/
+
 # SimonSpark 🎮  
 A fun Simon Says memory game built using HTML, CSS, and JavaScript.
 
