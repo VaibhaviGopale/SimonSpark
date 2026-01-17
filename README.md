@@ -3,7 +3,7 @@
 🔗 **Live Demo:**  
 👉 https://vaibhavigopale.github.io/SimonSpark/
 
-# SimonSpark 🎮  
+# SimonSpark
 A fun Simon Says memory game built using HTML, CSS, and JavaScript.
 
 ## 🔹 How to Play
